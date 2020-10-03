@@ -16,7 +16,7 @@ You've made it! It's time to put away the Excel sheet and join the big leagues. 
 
 ## PyBank
 
-![Revenue](https://raw.githubusercontent.com/coding-boot-camp/GWU-ARL-FIN-PT-09-2020-U-C/master/02-Python/Homework/Instructions/Images/ramen.jpg?token=ARB6J2X2MSP2TCMIJPCZCFC7QH7KC)
+![Revenue](https://raw.githubusercontent.com/coding-boot-camp/GWU-ARL-FIN-PT-09-2020-U-C/master/02-Python/Homework/Instructions/Images/revenue-per-lead.jpg?token=ARB6J2QAKMA5234MNAR4BKK7QH7QK)
 
 In this activity, you are tasked with creating a Python script for analyzing the financial records of your company. You will be provided with a financial dataset in this file: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
@@ -48,7 +48,7 @@ Your final script should print the analysis to the terminal and export a text fi
 
 ## PyRamen (Optional)
 
-![ramen.jpg](Images/ramen.jpg)
+![ramen.jpg](https://raw.githubusercontent.com/coding-boot-camp/GWU-ARL-FIN-PT-09-2020-U-C/master/02-Python/Homework/Instructions/Images/ramen.jpg?token=ARB6J2X2MSP2TCMIJPCZCFC7QH7KC)
 
 ## Background
 
